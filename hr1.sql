@@ -1,0 +1,1 @@
+select * FRom employees where employee_id<160;
